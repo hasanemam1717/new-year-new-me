@@ -99,6 +99,7 @@ header section div{    text-align: right;}
 .btn{    border-radius: 1px;
     background: #FFF;
     border: none;
+    color: #ff4000;
     margin-left: 3%;
     padding: 1%;
     font-weight: 400;}
@@ -106,10 +107,41 @@ header section div{    text-align: right;}
     background: linear-gradient(124deg, #e23b04, transparent);
     height: 250px;
  }
+footer{   display: flex;
+    background: #151414;
+    gap: 2%;
+    justify-content: space-around;
+    padding: 6%;}
+.future{  width: 50%;}
+.future h1{
+    color: #F8F8F8;
+font-size: 45px;
+font-weight: 700;
+}
+.future h2{color: #FFF;
+    font-size: 16px;
+    font-weight: 400;}
+.future div{}
+.future div img{}
 
-
-
-
+.subscribe{ color: #FFF;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: -25%;   }
+.subscribe h1{}
+.subscribe input{    color: #F3F3F3;
+    font-size: 18px;
+    font-weight: 400;
+    width: 121%;
+    padding: 10%;
+}
+.subscribe button{    border-radius: 8px;
+    background: #FFF;
+    padding: 6%;
+    width: 56%;
+    color: #ff4000;
+    font-weight: 600;
+    font-size: 15px;}
 
 
 
