@@ -61,8 +61,28 @@ header section div{    text-align: right;}
 .my-future h3{color: #444343;
     font-size: 16px;
     font-weight: 400;}
-
-
+.my-plans{}
+.my-plans h1{  text-align: center;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 5     %;}
+.my-plans-name img{}
+.my-plans-name h1{       color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700; }
+.my-plans-name h2{color:  #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;}
+.my-plans-container{    display: flex;
+    gap: 2%;
+    justify-content: space-between;
+    width: 72%;
+    margin: 0px auto;
+    text-align: center;
+}
 
 
 
